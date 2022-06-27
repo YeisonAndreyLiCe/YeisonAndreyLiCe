@@ -13,10 +13,10 @@
         <script src="https://kit.fontawesome.com/21a5a528a2.js" crossorigin="anonymous"></script>
     </head>
     <body class="dark">
-        <header class="header-top dark">
+        <header class="header-top dark" id="headerTop">
             <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
             </svg>
-            <ul class="nav-top" onclick="showList()">
+            <ul class="nav-top" id="list">
                 <li>
                     <a href="#about">About</a>
                 </li>
@@ -33,12 +33,17 @@
             </ul>
         </header>
         <div class="container dark">
-            <footer class="dark">
-                <i class="fa-brands fa-github"></i>
-                <i class="fa-brands fa-whatsapp"></i>
-                <i class="fa-brands fa-twitter"></i>
-            </footer>
+            <div class="presentation">
+                <p class="aboutMe">
+                    I'm a web developer with knowledge in front-end and back-end techonoligies
+                </p>
+            </div>
         </div>
+        <footer class="dark">
+            <i class="fa-brands fa-github"></i>
+            <i class="fa-brands fa-whatsapp"></i>
+            <i class="fa-brands fa-twitter"></i>
+        </footer>
 
         <script src="js/script.js"></script>
     </body>
