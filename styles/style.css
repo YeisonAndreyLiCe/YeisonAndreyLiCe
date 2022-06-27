@@ -17,15 +17,17 @@ body
     min-height: 100%;
     overflow-x: hidden;
     display:flex;
+    flex-direction:column;
+    align-items: center;
 }
 
-.header-top
-{
+.header-top {
+    transition:5ms;
     width: 100%;
     display: flex;
     align-items: center;
     padding:10px 10%;
-    position: fixed;
+    /*position: relative;*/
 }
 
 .dark{
@@ -62,7 +64,51 @@ footer{
 i{
     width: 100px;
 }
+.nav-top-ms a:link {
+    color: #07C592;
+    text-decoration: none;
+}
 
+.container{
+    width:90%;
+    padding:10px;
+    margin-top: 10px;
+
+}
+.presentation{
+    display:flex;
+    align-items: center;
+}
+
+.presentation img {
+    flex:1;
+    width:10%;
+    border-radius: 50%;
+}
+
+.aboutMe{
+    flex:4;
+}
+
+.nav-top-ms{
+    transition:5ms;
+    list-style-type:none;
+    background-color: white;
+    width:100%;
+    height: 100%;
+}
+
+.nav-top-ms a{
+    color:rgba(0, 0, 0, 0.8);
+}
+.header-top-ms{
+    transition: 5ms;
+    line-height: 200%;
+    padding: 10px 0px 0px 0px;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+}
 
 
 @media only screen and (max-width:480px) {
@@ -73,16 +119,26 @@ i{
         justify-content: center;
     }
 
+
     .nav-top {
+        transition: 5ms;
         display: none;
+    }
+
+    .header-top{
+        padding:10px 5px;
     }
 }
 @media only screen and (min-width: 481px){
     .nav-top{
+        transition: 5ms;
         display:none;
     }
     .header-top svg:hover{
         border:2px solid #07C592;
+    }
+    .header-top {
+        padding: 10px 5px;
     }
 }
 
