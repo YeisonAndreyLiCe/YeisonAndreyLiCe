@@ -16,6 +16,7 @@ body
     font-family: 'Rubik', sans-serif;
     min-height: 100%;
     overflow-x: hidden;
+    display:flex;
 }
 
 .header-top
@@ -46,6 +47,22 @@ a {
     letter-spacing: 0.1em;
     transition: 0.5s;
 }
+
+footer{
+    position:fixed;
+    bottom: 2px;
+    height:100px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:center;
+    align-items:center;
+    width:100%;
+}
+
+i{
+    width: 100px;
+}
+
 
 
 @media only screen and (max-width:480px) {
