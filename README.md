@@ -93,11 +93,29 @@
 
 ## Github Stats
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true&theme=github_dark" style="margin-bottom: 5px;" />
-</div>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true" />
+</picture>
 
-<div align="center" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonAndreyLiCe&layout=compact&theme=github_dark" />
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonAndreyLiCe&layout=compact&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonAndreyLiCe&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true>" />
+</picture>
 </div>
 
 <br/>
