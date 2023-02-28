@@ -92,8 +92,13 @@
 <br/>
 
 ## Github Stats
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true&theme=github_dark" style="margin-bottom: 5px;" />
+</div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yeisonandreyLiCe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonAndreyLiCe&layout=compact&theme=github_dark" />
+</div>
 
 <br/>
 
