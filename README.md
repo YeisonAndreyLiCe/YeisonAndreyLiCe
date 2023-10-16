@@ -1,20 +1,11 @@
-# Yeison Liscano
+<h1 align="center"> Yeison Liscano </h1>
 
-<div align="center"> 
-  <p> Hi 👋, I'm Yeison Liscano, full-stack developer and data scientist <p>
-</div>
-
+- Hi 👋, I'm Yeison Liscano, full-stack developer and data scientist
 - I’m currently working as security developer.
-
 - Ask me about `Python` frameworks for backend development, as well as Python frameworks and libraries for data science. `React`, `Node` and `TypeScript` for frontend development.
 
----
-
-<div align="center">
-  <h2>My Skill Set</h2>
-</div>
-
-<table><tr><td valign="top" width="20%">
+<h2 align="center">My Skill Set</h2>
+<table><tr><td valign="top" width="25%">
 
 ### Frontend
 
@@ -28,7 +19,7 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="60%">
+</td><td valign="top" width="50%">
 
 ### <div align="center"> Backend</div>
 
@@ -50,7 +41,7 @@
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="25%">
 
 ### DevOps
 
@@ -64,9 +55,7 @@
 
 </td></tr></table>
 
-<br/>
-
-## Connect with me
+<h2 align="center"> Connect with me </h2>
 
 <div align="center">
 
@@ -84,9 +73,7 @@
 </a>  
 </div>
 
-<br/>
-
-## Github Stats
+<h2 align="center"> Github Stats </h2>
 
 <div align="center">
 <picture>
@@ -117,5 +104,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=YeisonAndreyLiCe&&style=flat-square" align="center" />
 </div>
+
 <hr />
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+  <p> Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></p>
+</div>
