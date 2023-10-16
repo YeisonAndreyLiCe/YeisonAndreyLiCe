@@ -21,7 +21,7 @@
 
 </td><td valign="top" width="50%">
 
-### <div align="center"> Backend</div>
+<h3 align="center"> Backend</h3>
 
 <div align="center">
 <a href="https://www.python.org/" target="_blank">
