@@ -74,8 +74,7 @@
 </div>
 
 <h2 align="center"> Github Stats </h2>
-
-<div align="center" display="flex" flex-direction="column">
+<div align="center" style="display: flex;flex-direction: column;align-items: center;justify-content: center;">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true&theme=github_dark"
