@@ -75,7 +75,7 @@
 
 <h2 align="center"> Github Stats </h2>
 
-<div align="center">
+<div align="center" display="flex" flex-direction="column">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true&theme=github_dark"
@@ -90,7 +90,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonAndreyLiCe&layout=compact&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonAndreyLiCe&layout=compact&hide=jupyter%20notebook&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
